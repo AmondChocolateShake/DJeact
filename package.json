@@ -1,0 +1,23 @@
+{
+  "name": "react-cp",
+  "version": "1.0.0",
+  "description": "Hello, I'm a random developer.  This repository is for creating a library takes the same concept of React. Named DJeact(my name DongJu + React).",
+  "homepage": "https://github.com/AmondChocolateShake/react-cp#readme",
+  "bugs": {
+    "url": "https://github.com/AmondChocolateShake/react-cp/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmondChocolateShake/react-cp.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
