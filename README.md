@@ -28,7 +28,7 @@ Named DJeact(my name DongJu + React).
 
 
 # How React works?
-1. Bundler parses JSX -> createElement (This is very interesting that bundlers manage JSX Parsing 🤔)
+1. Bundler parses JSX -> createElement (This is very interesting that bundlers manage JSX Parsing 🤔, why did they consider develop React using Bundler.)
 2. createElement creates Object for Virtual DOM
 3. (If DOM manipulation is required depending on the status, the changed areas are compared through the virtual dom diff algorithm and a new object is created. ref : https://legacy.reactjs.org/docs/reconciliation.html)
 4. Virtual DOM creates real DOM
