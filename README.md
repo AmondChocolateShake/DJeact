@@ -1,4 +1,4 @@
-# React Copy
+# DJeact
 Hello, I'm a random developer. 
 This repository is for creating a library takes the same concept of React.
 
