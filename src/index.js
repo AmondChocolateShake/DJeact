@@ -2,12 +2,12 @@ import createElement from './createElement.js'
 
 
 
-const React = {
+const DJeact = {
   createElement
 }
 
 export {
-  React
+  DJeact
 }
 
 
