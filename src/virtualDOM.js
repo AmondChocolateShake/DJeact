@@ -2,9 +2,9 @@
 
 /**
  * Create a Virtual DOM Object to compare Real DOM and create UI
- * @param {} element 
+ * @param {} values
  */
-function createVirtualDOM(value) {
+function createVirtualDOM(values) {
   
 }
 
@@ -13,7 +13,14 @@ function createVirtualDOM(value) {
  * Create a root Element(Search root id)
  * @param {*} id
  */
-function createRoot(id) {
-  
+function createRoot() {
+  return {
+    tag: "div",
+    props: {},
+    options: {
+      width: "100%",
+      height:"100%"
+    },
+  }
 }
 
